@@ -2,7 +2,7 @@
 
 Wonder How we can rotate the page and show navbar down there using HTML CSS JS? If No, this will be the perfect repo for you.
 
-###### **Here is the link of [Live Demo](https://github.com/Abdulhussainjarif/Rotating-Navigation-bar/)**
+###### **Here is the link of [Live Demo](https://rotatingnavbar.netlify.app/)**
 
 ## Technology Stack Used
 
